@@ -1,0 +1,4 @@
+Стили можно подключить через Bootstrap cdn
+https://getbootstrap.com/docs/4.5/utilities/spacing/
+Никакие css и js млжно не создавать
+Подключаем бутстрап в начале файла и в конце
